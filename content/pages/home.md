@@ -5,10 +5,10 @@ title: Home of writeforyou.com
 featuredImage: https://ucarecdn.com/9c55140a-92f2-4ba7-81d1-d7f27355653f/
 subtitle: Test using yellowcake starter
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Chuck Martin's web home.
+  title: WriteForYou.com
 ---
-Test home for writeforyou.com. This is website uses:
+Test home for writeforyou.com. This website uses:
 
 * Netlify for hosting
 * Gastby static site generator for content management
