@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Contact Page
 featuredImage: https://ucarecdn.com/6b4d760d-55f1-442c-90f2-537aee6c54fb/
-subtitle: This is the contact page subtitle.
+subtitle: Reach out here
 address: San Jose, CA
 phone: n/a
 email: n/a
@@ -15,13 +15,12 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
 # Example contact form
 
-This form is setup to use Netlify's form handling:
+This form is set up to use Netlify's form handling:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+* the form action is set to the current absolute url: `action: '/contact/'`
+* a name attribute is sent with the form's data `'form-name': 'Contact'`
+* netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
 Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
