@@ -4,7 +4,7 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow me{"https://twitter.com/chuck_martin"}
+      Follow me: {"https://twitter.com/chuck_martin"}
       <a href="">@chuck_martin</a>
     </h2>
     <br />
